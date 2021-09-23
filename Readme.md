@@ -4,7 +4,7 @@ These scripts make use of mkvpropedit, mkvextract, and ffmpeg to do their work. 
 
 ## Installation
 
-Clone the repo into `C:\Program Files\VideoScripts`.
+Clone the repo into `C:\Program Files\VideoScripts` and add this folder to your PATH.
 
 ## Requirements
 
